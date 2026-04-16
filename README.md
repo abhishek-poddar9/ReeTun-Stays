@@ -16,7 +16,7 @@ This project allows users to explore property listings through a clean, responsi
 - React.js
 - JavaScript (ES6+)
 - Vite
-- CSS
+- CSS3
 
 ## Live Demo
 reetun-stays.netlify.app
